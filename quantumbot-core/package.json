@@ -1,0 +1,11 @@
+{
+  "name": "quantumbot-core",
+  "version": "1.0.0",
+  "description": "backend for Radical AI project",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "devUserContact",
+  "license": "ISC"
+}
