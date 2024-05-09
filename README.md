@@ -1,7 +1,7 @@
-# Radical AI Missions
-## A Github repo for my missions at [Radical AI][1]
+# Radical AI Mission _Quantumbot Core_
+## backend application for Radical AI full stack project
 
-Individual projects are separated into branches.
+project uses [nodejs][1] for application and [firebase][2] for database.
 
-[1]:https://radicalai.app/about
-
+[1]:https://nodejs.org/en
+[2]:https://firebase.google.com/
