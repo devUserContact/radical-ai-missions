@@ -1,7 +1,6 @@
-# Radical AI Missions
-## A Github repo for my missions at [Radical AI][1]
+# Radical AI Mission _Cosmochat UI_
+## frontend application for Radical AI full stack project
 
-Individual projects are separated into branches.
+project uses [nextjs][1] for application.
 
-[1]:https://radicalai.app/about
-
+[1]:https://nextjs.org/
